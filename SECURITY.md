@@ -18,7 +18,7 @@ Ikenga is pre-1.0 and ships frequently. We provide security fixes for the **late
 Use one of these private channels instead:
 
 1. **GitHub Private Vulnerability Reporting (preferred).** Go to the **Security** tab of the affected repository → **Report a vulnerability**. This opens a private advisory visible only to you and the maintainers, with a built-in space to collaborate on a fix and coordinate disclosure.
-2. **Email.** If you can't use GitHub's reporting, email `hello@ikenga.dev`. Encrypt if you can; ask for a key in your first message if needed.
+2. **Email.** If you can't use GitHub's reporting, email `hello@royalti.io`. Encrypt if you can; ask for a key in your first message if needed.
 
 Please include:
 
