@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Royalti product support
+    url: https://royalti.io/help
+    about: Bugs or questions about the hosted Royalti platform — faster than filing here.
+  - name: Security vulnerability
+    url: https://github.com/Royalti-io/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as a public issue.
+  - name: Ikenga
+    url: https://github.com/ikenga-hq
+    about: Ikenga moved to its own organisation.
