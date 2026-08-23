@@ -6,7 +6,7 @@ Royalti is a platform for the unglamorous half of the music business: ingesting 
 statements from every source that sends them, splitting the money correctly, registering
 works, delivering releases, and paying people what they're actually owed.
 
-→ **[royalti.io](https://royalti.io)** · [API docs](https://royalti.io/docs) · [Help centre](https://royalti.io/help)
+→ **[royalti.io](https://royalti.io)** · [Developers](https://royalti.io/developers) · [Help centre](https://royalti.io/help)
 
 ### 🎛 [Royalti Skills](https://github.com/Royalti-io/royalti-skills) — free, cited music-industry reference
 
